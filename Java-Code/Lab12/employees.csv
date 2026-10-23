@@ -1,0 +1,4 @@
+type,id,name,value1,value2
+STAFF,E001,สมชาย ใจดี,20000,
+MANAGER,E002,สมหญิง บริหารเก่ง,35000,8000
+PARTTIME,E003,มะลิ,120,80
